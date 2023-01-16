@@ -1,0 +1,11 @@
+.card {
+  border-radius: 0.5em;
+  text-align: center;
+  padding: 1em;
+}
+.card:hover {
+  background-color: rgba(0, 0, 0, 0.1);
+}
+body {
+  background-image: url("/Page\ 1/Picture/bodyfon.jpg");
+}

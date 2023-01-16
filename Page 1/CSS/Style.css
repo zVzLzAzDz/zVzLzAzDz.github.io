@@ -1,0 +1,16 @@
+p {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: rgb(42, 36, 36);
+  font: optional;
+  font-size: 20px;
+}
+.round-img {
+  width: 75%;
+  border-radius: 60%;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 20);
+  padding: 0.3em;
+  margin-bottom: 0em;
+}
+body {
+  background-image: url("../Picture/bodyfon.jpg");
+}
